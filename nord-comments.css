@@ -34,9 +34,9 @@ main {
   --color-prettylights-syntax-brackethighlighter-angle: #768390;
   --color-prettylights-syntax-sublimelinter-gutter-mark: #545d68;
   --color-prettylights-syntax-constant-other-reference-link: #96d0ff;
-  --color-btn-text: #adbac7;
+  --color-btn-text: #2E3440;
   --color-btn-bg: #22272E;
-  --color-btn-border: rgba(205, 217, 229, 0.1);
+  --color-btn-border: #2E3440;
   --color-btn-shadow: 0 0 transparent;
   --color-btn-inset-shadow: 0 0 transparent;
   --color-btn-hover-bg: #444c56;
@@ -72,7 +72,7 @@ main {
   --color-accent-subtle: rgba(65, 132, 228, 0.15);
   --color-success-fg: #A3BE8C;
   --color-danger-fg: #D08770;
-  --color-primer-shadow-focus: 0 0 0 2px ##8FBCBB;
+  --color-primer-shadow-focus: 0 0 0 2px #8FBCBB;
   --color-scale-gray-7: #373e47;
   --color-scale-gray-8: #2d333b;
   --color-scale-blue-8: #143d79;
