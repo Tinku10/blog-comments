@@ -56,18 +56,18 @@ main {
   --color-btn-primary-disabled-bg: #22272E;
   --color-btn-primary-disabled-border: #ADBAC7;
   --color-fg-default: #adbac7;
-  --color-fg-muted: #768390;
+  --color-fg-muted: #8FBCBB;
   --color-fg-subtle: #545d68;
   --color-canvas-default: #2E3440;
   --color-canvas-overlay: #2d333b;
   --color-canvas-inset: #1c2128;
   --color-canvas-subtle: #22272e;
-  --color-border-default: #22272E;
-  --color-border-muted: #373e47;
-  --color-neutral-muted: rgba(99, 110, 123, 0.4);
-  --color-neutral-subtle: rgba(99, 110, 123, 0.1);
-  --color-accent-fg: #539bf5;
-  --color-accent-emphasis: #316dca;
+  --color-border-default: #434C5E;
+  --color-border-muted: #434C5E;
+  --color-neutral-muted: #22272e;
+  --color-neutral-subtle: #22272e;
+  --color-accent-fg: #88C0D0;
+  --color-accent-emphasis: #88C0D0;
   --color-accent-muted: rgba(65, 132, 228, 0.4);
   --color-accent-subtle: rgba(65, 132, 228, 0.15);
   --color-success-fg: #A3BE8C;
@@ -75,7 +75,7 @@ main {
   --color-primer-shadow-focus: 0 0 0 0px #8FBCBB;
   --color-scale-gray-7: #373e47;
   --color-scale-gray-8: #2d333b;
-  --color-scale-blue-8: #143d79;
+  --color-scale-blue-8: #8FBCBB;
 
   /*! Extensions from @primer/css/alerts/flash.scss */
   --color-social-reaction-border: #88C0D0;
