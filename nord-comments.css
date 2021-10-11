@@ -56,7 +56,7 @@ main {
   --color-btn-primary-disabled-bg: #22272E;
   --color-btn-primary-disabled-border: #ADBAC7;
   --color-fg-default: #adbac7;
-  --color-fg-muted: #8FBCBB;
+  --color-fg-muted: #768390;
   --color-fg-subtle: #545d68;
   --color-canvas-default: #2E3440;
   --color-canvas-overlay: #2d333b;
@@ -66,10 +66,10 @@ main {
   --color-border-muted: #434C5E;
   --color-neutral-muted: #22272e;
   --color-neutral-subtle: #22272e;
-  --color-accent-fg: #88C0D0;
+  --color-accent-fg: #539BF5;
   --color-accent-emphasis: #88C0D0;
-  --color-accent-muted: rgba(65, 132, 228, 0.4);
-  --color-accent-subtle: rgba(65, 132, 228, 0.15);
+  --color-accent-muted: #545d68;
+  --color-accent-subtle: #22272E;
   --color-success-fg: #A3BE8C;
   --color-danger-fg: #D08770;
   --color-primer-shadow-focus: 0 0 0 0px #8FBCBB;
@@ -78,7 +78,7 @@ main {
   --color-scale-blue-8: #8FBCBB;
 
   /*! Extensions from @primer/css/alerts/flash.scss */
-  --color-social-reaction-border: #88C0D0;
+  --color-social-reaction-border: #434C5E;
   --color-social-reaction-bg: #22272e;
   --color-social-reaction-bg-hover: #434C5E;
   --color-social-reaction-bg-reacted-hover: #434C5E;
