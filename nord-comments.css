@@ -48,13 +48,13 @@ main {
   --color-btn-primary-border: #2d33b;
   --color-btn-primary-shadow: 0 0 transparent;
   --color-btn-primary-inset-shadow: 0 0 transparent;
-  --color-btn-primary-hover-bg: #A3BE8C;
-  --color-btn-primary-hover-border: #A3BE8C;
-  --color-btn-primary-selected-bg: #3B4252;
+  --color-btn-primary-hover-bg: #2E3440;
+  --color-btn-primary-hover-border: #2E3440;
+  --color-btn-primary-selected-bg: #2E3440;
   --color-btn-primary-selected-shadow: 0 0 transparent;
-  --color-btn-primary-disabled-text: rgba(205, 217, 229, 0.5);
+  --color-btn-primary-disabled-text: #ECEFF4;
   --color-btn-primary-disabled-bg: rgba(52, 125, 57, 0.6);
-  --color-btn-primary-disabled-border: rgba(205, 217, 229, 0.1);
+  --color-btn-primary-disabled-border: #22272E;
   --color-fg-default: #adbac7;
   --color-fg-muted: #768390;
   --color-fg-subtle: #545d68;
@@ -72,7 +72,7 @@ main {
   --color-accent-subtle: rgba(65, 132, 228, 0.15);
   --color-success-fg: #A3BE8C;
   --color-danger-fg: #D08770;
-  --color-primer-shadow-focus: 0 0 0 3px #143d79;
+  --color-primer-shadow-focus: 0 0 0 2px ##8FBCBB;
   --color-scale-gray-7: #373e47;
   --color-scale-gray-8: #2d333b;
   --color-scale-blue-8: #143d79;
