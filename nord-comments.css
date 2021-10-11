@@ -72,7 +72,7 @@ main {
   --color-accent-subtle: rgba(65, 132, 228, 0.15);
   --color-success-fg: #A3BE8C;
   --color-danger-fg: #D08770;
-  --color-primer-shadow-focus: 0 0 0 2px #8FBCBB;
+  --color-primer-shadow-focus: 0 0 0 0px #8FBCBB;
   --color-scale-gray-7: #373e47;
   --color-scale-gray-8: #2d333b;
   --color-scale-blue-8: #143d79;
