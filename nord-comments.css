@@ -62,7 +62,7 @@ main {
   --color-canvas-overlay: #2d333b;
   --color-canvas-inset: #1c2128;
   --color-canvas-subtle: #2d333b;
-  --color-border-default: #444c56;
+  --color-border-default: #22272E;
   --color-border-muted: #373e47;
   --color-neutral-muted: rgba(99, 110, 123, 0.4);
   --color-neutral-subtle: rgba(99, 110, 123, 0.1);
@@ -123,4 +123,13 @@ main {
 
 input {
 	outline: none;
+}
+
+.color-bg-primary {
+  background-color: #2E3440;
+}
+
+.markdown .highlight pre,
+.markdown pre {
+  background-color: #22272E;
 }
