@@ -61,14 +61,14 @@ main {
   --color-canvas-default: #2E3440;
   --color-canvas-overlay: #2d333b;
   --color-canvas-inset: #1c2128;
-  --color-canvas-subtle: #242933;
+  --color-canvas-subtle: #1c2128;
   --color-border-default: #22272e;
   --color-border-muted: #22272e;
   --color-neutral-muted: #242933;
   --color-neutral-subtle: #242933;
   --color-accent-fg: #539BF5;
   --color-accent-emphasis: #88C0D0;
-  --color-accent-muted: #545d68;
+  --color-accent-muted: #22272e;
   --color-accent-subtle: #22272E;
   --color-success-fg: #A3BE8C;
   --color-danger-fg: #D08770;
