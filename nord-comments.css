@@ -62,10 +62,10 @@ main {
   --color-canvas-overlay: #2d333b;
   --color-canvas-inset: #1c2128;
   --color-canvas-subtle: #22272e;
-  --color-border-default: #434C5E;
-  --color-border-muted: #434C5E;
-  --color-neutral-muted: #22272e;
-  --color-neutral-subtle: #22272e;
+  --color-border-default: #2e3440;
+  --color-border-muted: #2e3440;
+  --color-neutral-muted: #242933;
+  --color-neutral-subtle: #242933;
   --color-accent-fg: #539BF5;
   --color-accent-emphasis: #88C0D0;
   --color-accent-muted: #545d68;
@@ -123,4 +123,9 @@ main {
 
 input {
 	outline: none;
+}
+
+
+body {
+    @apply border-none;
 }
