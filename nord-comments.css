@@ -61,9 +61,9 @@ main {
   --color-canvas-default: #2E3440;
   --color-canvas-overlay: #2d333b;
   --color-canvas-inset: #1c2128;
-  --color-canvas-subtle: #22272e;
-  --color-border-default: #2e3440;
-  --color-border-muted: #2e3440;
+  --color-canvas-subtle: #242933;
+  --color-border-default: #22272e;
+  --color-border-muted: #22272e;
   --color-neutral-muted: #242933;
   --color-neutral-subtle: #242933;
   --color-accent-fg: #539BF5;
@@ -126,6 +126,6 @@ input {
 }
 
 
-body {
-    @apply border-none;
+html, body {
+    @apply border-none border-0;
 }
